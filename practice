@@ -25,6 +25,8 @@ import org.openqa.selenium.support.ui.FluentWait;
 public class practice {
 
 	public static void main(String[] args) {
+	/* Time stamp*/
+	
 		// TODO Auto-generated method stub
 		Date dte=new Date();
 	    long milliSeconds = dte.getTime();
